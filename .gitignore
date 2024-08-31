@@ -1,0 +1,10 @@
+env/
+cmn*.txt
+systable*.txt
+.env
+
+*db
+
+__pycache__
+
+core/__pycache__
